@@ -1,15 +1,16 @@
-Conceptual model (20 pts)
--a clear diagram that corresponds with your R function (10 pts)
--inputs and output and parameters shown on the diagram (10 pts)
+1. Conceptual Model 
 
+ ! [A Model Diagram for Determing Almond Yield with a Function](Almond_Yield_Model_Diagram.jpg)
 
-
-Function application with climate data (clim.txt)
+2. Function application with climate data (clim.txt)
 -application of the function to clim.txt (in Rmarkdown file) (10 pts)
 -coding practices (clear documentation, informative variables names) (10 pts)
 
+
+```{r}
 source("../almond_yield_function.R")
 almond_yield
+```
 
 ```{r}
 # run the model
