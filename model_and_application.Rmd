@@ -1,0 +1,9 @@
+Conceptual model (20 pts)
+-a clear diagram that corresponds with your R function (10 pts)
+-inputs and output and parameters shown on the diagram (10 pts)
+
+
+
+Function application with climate data (clim.txt)
+-application of the function to clim.txt (in Rmarkdown file) (10 pts)
+-coding practices (clear documentation, informative variables names) (10 pts)
